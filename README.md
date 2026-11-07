@@ -88,3 +88,6 @@ Overall, these challenges helped me practise more and become more familiar with 
 ## Live Demo
 
 [View My Website](https://magdalenewanyeki.github.io/iyf-s12-week-01-MagdaleneWanyeki-/)
+
+## Article
+[View My Article](https://dev.to/magdalenewanyeki/semantic-html-accessibility-what-i-learned-and-fixed-5ln)
